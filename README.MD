@@ -4,7 +4,7 @@ API REST que calcula o valor monetário da taxa de administração a ser cobrada
 
 ## 🚀 Tecnologias
 
-* **Python 3.12+**
+* **Python 3.13.7**
 * **FastAPI** - Framework para API
 * **Uvicorn** - Servidor ASGI
 * **Pydantic** - Validação de dados
